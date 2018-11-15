@@ -23,5 +23,3 @@ describe('HeroesComponent', () => {
     expect(component).toBeTruthy();
   });
 });
-
-hero = 'Windowstorm';
